@@ -34,5 +34,5 @@ Bu çalışma, Unity Editor sınıfını kullanarak interaktif ve kullanıcı do
 
 # Ekran Görüntüleri
 
-![Şifreli Kilit Modeli](images/lockSS.png)
-![İnspector Paneli Görünümü](images/inspectorSS.png)
+![Şifreli Kilit Modeli](Images/lockSS.png)
+![İnspector Paneli Görünümü](Images/inspectorSS.png)
