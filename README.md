@@ -4,6 +4,9 @@ Merhaba sevgili bağlantılar,
 
 Bu proje, Unity Editor sınıfını kullanarak geliştirdiğim korku oyunu için özel bir şifreli kilit sınıfını içermektedir. Bu sınıf, oyun içinde şifreli kilit mekanikleri üzerinde kontrol sağlama imkanı sunan kullanışlı bir araçtır.
 
+### Inspector Paneli Görünümü
+![İnspector Paneli Görünümü](Images/inspectorSS.png)
+
 ## Özellikler
 
 - **Haneleri Arttırma:**
@@ -34,5 +37,7 @@ Bu çalışma, Unity Editor sınıfını kullanarak interaktif ve kullanıcı do
 
 # Ekran Görüntüleri
 
+### Şifreli Kilit Modeli
 ![Şifreli Kilit Modeli](Images/lockSS.png)
-![İnspector Paneli Görünümü](Images/inspectorSS.png)
+
+
