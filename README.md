@@ -34,6 +34,8 @@ Bu çalışma, Unity Editor sınıfını kullanarak interaktif ve kullanıcı do
 
 İyi incelemeler!
 
+### Projenin tanıtım videosu için [Bağlantıya Tıklayın <b>(Linkedin)</b>](https://www.linkedin.com/posts/mesut-atakan_merhaba-sevgili-ba%C4%9Flant%C4%B1lar%C4%B1m-bug%C3%BCn-korku-activity-7150813332843708416-kyIs?utm_source=share&utm_medium=member_desktop)
+
 
 # Ekran Görüntüleri
 
